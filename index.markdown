@@ -2,6 +2,12 @@
 layout: slides
 title:  GitHub - The Best CMS Ever (!?) 
 ---
+<style>
+strong {
+	color: #105020;
+}
+
+</style>
 
 <section markdown="block">
 # GitHub - The Best CMS Ever (!?) 
@@ -294,7 +300,7 @@ Most people use git with __ssh keys__.  We'll use HTTP auth for now (hence the u
 </section>
 
 <section markdown="block">
-## jekyll
+## jekyll Continued
 
 1. copies everything in your directory... 
 2. into a folder called \_sites
@@ -310,6 +316,15 @@ Most people use git with __ssh keys__.  We'll use HTTP auth for now (hence the u
 * \_config.yml
 * prefix with underscore means it doesn't get dropped into the \_site folder
 </section>
+
+<section markdown="block">
+## jekyll Commands
+
+* jekyll build
+* jekyll serve
+* jekyll serve --watch
+</section>
+
 
 <section markdown="block">
 ## Files / YAML Front Matter
