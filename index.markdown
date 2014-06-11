@@ -2,12 +2,6 @@
 layout: slides
 title:  GitHub - The Best CMS Ever (!?) 
 ---
-<style>
-strong {
-	color: #105020;
-}
-
-</style>
 
 <section markdown="block">
 # GitHub - The Best CMS Ever (!?) 
