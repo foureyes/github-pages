@@ -19,10 +19,31 @@ title:  GitHub - The Best CMS Ever (!?)
 </section>
 
 <section markdown="block">
+	<section markdown="block">
 ## Let's Talk About Web Sites
 
 * hosting 
 * static vs dynamic
+	</section>
+	<section markdown="block">
+## There Are a lot of Options Out There!
+
+...for hosting and creating sites.  For example:
+
+* [Squarespace](http://www.squarespace.com/)
+* [WordPress](https://wordpress.com/)
+* [Weebly](http://www.weebly.com/)
+* or, you know, 90's style... hand code and ftp to _your server_
+	</section>
+	<section markdown="block">
+## This Talk is Kind of About the Modern Equivalent of That Last One
+
+(hand code and ftp to _your server_)
+
+(but sooo much better)
+
+(and a bit more complicated, of course)
+	</section>
 </section>
 
 <section markdown="block">
@@ -60,10 +81,16 @@ What's this all about now?
 ## Introductions
 
 * me
+	* teach programming at NYU 
+	* teach programming tools at City-Tech
 * you
+	* git / GitHub experience?
+	* commandline?
+	* gems?
 </section>
 
 <section markdown="block">
+	<section markdown="block">
 ## This Presentation
 
 Obvs - about [GitHub Pages](https://pages.github.com) (a feature on GitHub)
@@ -75,17 +102,12 @@ Obvs - about [GitHub Pages](https://pages.github.com) (a feature on GitHub)
 	* markdown 
 3. and... your turn!
 
-(this is going to be a bit loose... and possibly only marginally _coherent_)
+	</section>
+	<section markdown="block">
+## (this is going to be a bit loose... and possibly only marginally _coherent_)
+	</section>
 </section>
 <!--
-## Introductions
-
-* who?
-	* teach at nyu and city-tech
-		* programming
-		* teach basic git
-	* use github pages for my course sites!
-	* having said that - this presentation may be rough - i'm not an expert on all of the techs
 * what techs exactly?
 	* just git and github really
 	* ...but jekyll
