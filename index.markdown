@@ -57,9 +57,8 @@ What's this all about now?
 
 Let's try changing the pages that these slides are hosted on.
 
-(change this text here!)
+(voila!)
 
-(live demos never work... or maybe they do?)
 	</section>
 	<section markdown="block">
 ## BTW, What's a Repository?
